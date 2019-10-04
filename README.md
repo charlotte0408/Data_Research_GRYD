@@ -6,4 +6,4 @@ The Gang Reduction and Youth Development (GRYD) program is an initiative conduct
 
 #### Note
 
-Due to the data privacy, only the final presentation and report are included. 
+Due to the data privacy, only some codes, the final presentation and report are included. 
